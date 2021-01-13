@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\taski\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\taski\\.nuget\\packages"
+    ]
+  }
+}
